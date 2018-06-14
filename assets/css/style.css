@@ -1,0 +1,84 @@
+
+.container-fluid {
+  background-color: rgb(255, 135, 96);
+  padding: 0;
+  margin: 0;
+  width: 100%;
+
+}
+h1 {
+  color: white;
+  text-align: right;
+  margin-right: 2%;
+  
+}
+
+#subtitle {
+  color: white;
+  text-align: right;
+  margin-right: 2%;
+}
+
+
+h5 {
+  color: white;
+  text-align: center;
+  margin-top: 2em;
+}
+
+.imagen1 {
+  width: 100%;
+}
+#medio {
+  background-color:rgb(147, 240, 130);
+  height: 190%;
+  width: 100%;
+  padding-bottom:  2%;
+
+  
+
+}
+
+#txt_box {
+  text-align: center;
+  margin-top: 2em;
+  color: white;
+}
+
+ 
+#box {
+  background-color:rgb(255, 125, 85);
+  height: 20em;
+  margin: 2%;
+}
+
+
+.pictures {
+  width: 8%;
+  height: 8%;
+  margin-top: 4%;
+  margin-left: 13%;
+  margin: 2em auto;
+  text-align: center;
+	border: 9px solid #FFF;
+  box-shadow: 0 0 0.25em 0 rgba(50, 50, 50, 0.2);
+  
+}
+
+
+.flex-container > div {
+  width: 100px;
+  margin: 10em;
+  text-align: center;
+  font-size: 30px;
+}
+
+#fondopanda {
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+}
+
+#footer {
+  text-align: right;
+  color: #FFF;
+}
